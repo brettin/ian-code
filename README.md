@@ -1,7 +1,7 @@
 # ian-code
 Simple Swift-Python code to run parameter sweeps
 
-Usage: run-swift.sh -settings=$PWD/settings
+Usage: run-swift.sh -settings=$PWD/settings.json
 
 Files:
 - **run-swift.sh**: sets up to run **run-sweep.swift** on Beagle at UChicago
